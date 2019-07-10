@@ -17,9 +17,9 @@ public class MainActivity extends AppCompatActivity {
         public void onClick_Btn(View v){
 
             Toast.makeText(this, "Test Button 을 눌렀음...1", Toast.LENGTH_LONG).show();
-            Toast.makeText(this, "Test Button 을 눌렀음...2", Toast.LENGTH_LONG).show();
-            Toast.makeText(this, "Test Button 을 눌렀음...3", Toast.LENGTH_LONG).show();
-            Toast.makeText(this, "Test Button 을 눌렀음...4", Toast.LENGTH_LONG).show();
+            //Toast.makeText(this, "Test Button 을 눌렀음...2", Toast.LENGTH_LONG).show();
+            //Toast.makeText(this, "Test Button 을 눌렀음...3", Toast.LENGTH_LONG).show();
+            //Toast.makeText(this, "Test Button 을 눌렀음...4", Toast.LENGTH_LONG).show();
 
         }
 }
